@@ -1,0 +1,27 @@
+header{
+    height: 100px;
+    background-color: aqua;
+    background-image: url(./img/pattern.png);
+
+}
+
+#blue{
+    color: blue;
+}
+h4{
+margin-bottom: 0px;
+}
+
+#yellow_marker{
+height: 12px;
+color: yellowgreen;
+}
+
+h5{
+    margin-top:0px;
+}
+
+.foto{
+    margin-top: 0%;
+    font-size: 8px;
+}
